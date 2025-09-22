@@ -63,7 +63,7 @@ Incluye **sistema RPG**, herramientas de **moderación avanzada**, **minijuegos*
 ## 👑 **Creador y colaboradores**  
 
 💻 **𝐃𝐞𝐬𝐚𝐫𝐫𝐨𝐥𝐥𝐚𝐝𝐨𝐫 𝐩𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥:**  
-- 👑 **Russell XZ** (Creador de Azura Ultra)  
+- 👑 **wilker s** (Creador de M-ster Ultra)  
 
 🤖 **𝐂𝐨𝐥𝐚𝐛𝐨𝐫𝐚𝐝𝐨𝐫𝐞𝐬:**  
 - 🔹 [DIEGO-OFC](https://github.com/DIEGO-OFC)  
